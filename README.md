@@ -38,8 +38,6 @@ I have been programming for a year. During the training period, I completed 2 te
 <a href="https://git-scm.com/" title="Git" target="_blank"><img src="icons/git.png" width="30"/></a>
 <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30"/></a>
 <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="icons/postman.png" width="30"/></a>
-<a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/mongodb.png" height="35" width="35"/></a>
-<a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/docker.png" width="35"/></a>
 <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/vsCode.png" width="30"/></a>
 
 
