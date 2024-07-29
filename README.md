@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am in the final stage of studying courses in the speciality of Full Stack Developer. This is 420 hours of total time spent in the LMS training platform, of which 200 hours of coding and 170 hours of studying theoretical material during 40 weeks, and this is just the beginning. I constantly learn and adapt to new technologies to stay abreast of the latest trends. Attentive to detail, organized, and diligent. Open to collaboration with other developers, designers, and project managers. The main technologies were studied: HTML, CSS, and JavaScript. I also gained knowledge and practical skills in working with UI/UX design at the Logos IT Academy courses, where the design of two layouts of web interfaces was implemented. My goal is to become a Frontend Architect in a well-known and successful company, earn a high income with flexible working hours, and have the opportunity to learn and develop. Specialize in certain areas, such as developing mobile applications to do only what I like, showing my creativity, creating unique and user-friendly interfaces, being involved in interesting projects, and working with modern technologies and tools.
+I am in the final stage of studying courses in the speciality of Full Stack Developer. I constantly learn and adapt to new technologies to stay abreast of the latest trends. Attentive to detail, organized, and diligent. Open to collaboration with other developers, designers, and project managers. The main technologies were studied: HTML, CSS, and JavaScript. I also gained knowledge and practical skills in working with UI/UX design at the Logos IT Academy courses, where the design of two layouts of web interfaces was implemented.
 
 ## Experienc
 
@@ -38,8 +38,6 @@ I have been programming for a year. During the training period, I completed 2 te
 <a href="https://git-scm.com/" title="Git" target="_blank"><img src="icons/git.png" width="30"/></a>
 <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30"/></a>
 <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="icons/postman.png" width="30"/></a>
-<a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/mongodb.png" height="35" width="35"/></a>
-<a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/docker.png" width="35"/></a>
 <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/vsCode.png" width="30"/></a>
 
 
