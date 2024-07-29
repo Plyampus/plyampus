@@ -51,7 +51,7 @@ I have been programming for a year. During the training period, I completed 2 te
 
 <div style="display: flex; align-items: center;">
 <a href="https://t.me/plyampus" title="Telegram" target="_blank"><img src="icons/tg.png" width="30"/></a>
-<a href="https://www.linkedin.com/in/pavlohvozdetskyi" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="30"/></a>
+<a href="https://www.linkedin.com/in/pavlohvozdetskyi" title="LinkedIn" target="_blank"><img src="icons/linkedIn.png" width="30"/></a>
 <a href="mailto:pavlohvozdetskyi@protonmail.com"><img src="icons/protonMail.png" width="45" height="45"/></a></div>
 
 ## Career Goals
