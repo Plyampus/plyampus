@@ -30,7 +30,7 @@ I have been programming for a year. During the training period, I completed 2 te
 <a href="https://html.com/" title="HTML" target="_blank"><img src="icons/html.png" width="30"/></a>
 <a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="30"/></a>
 <a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="30"/></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+<a href="https://redux.js.org/ title="Redux" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="30" height="30" alt="Redux" /></a>
 
 **Working with:**
 
