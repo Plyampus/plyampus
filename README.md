@@ -40,7 +40,8 @@ I have been programming for a year. During the training period, I completed 2 te
 <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="30"/></a>
 <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="icons/postman.png" width="30"/></a>
 <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"><img src="icons/vsCode.png" width="30"/></a>
-
+<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="30" height="30" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></a>
 
 **Learning:**
 
