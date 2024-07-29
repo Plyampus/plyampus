@@ -4,7 +4,7 @@
 
 I am in the final stage of studying courses in the speciality of Full Stack Developer. I constantly learn and adapt to new technologies to stay abreast of the latest trends. Attentive to detail, organized, and diligent. Open to collaboration with other developers, designers, and project managers. The main technologies were studied: HTML, CSS, and JavaScript. I also gained knowledge and practical skills in working with UI/UX design at the Logos IT Academy courses, where the design of two layouts of web interfaces was implemented.
 
-## Experienc
+## Experience
 
 I have been programming for a year. During the training period, I completed 2 team projects as a developer and 2 individual ones. Thanks to this, I successfully combine creativity and technical skills.
 
