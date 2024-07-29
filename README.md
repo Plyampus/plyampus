@@ -31,7 +31,7 @@ I have been programming for a year. During the training period, I completed 2 te
 <a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="30"/></a>
 <a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="30"/></a>
 <a href="https://redux.js.org/" title="Redux" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="30" height="30" alt="Redux" /> </a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px color: white" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="30" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px background-color: white" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="30" /></a>  
 
 **Working with:**
 
