@@ -7,7 +7,10 @@ As a passionate UI/UX Designer, I believe that a great design is one that is not
 
 ## 🛠️ My Professional Toolkit
 
-<div align="center">
+<div>
+  <a href="https://affinity.serif.com/en-us/designer/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Affinity%20Designer-1B74C1?style=for-the-badge&logo=affinitydesigner&logoColor=white" /></a>
+  <a href="https://affinity.serif.com/en-us/photo/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Affinity%20Photo-5752D5?style=for-the-badge&logo=affinityphoto&logoColor=white" /></a>
+  <a href="https://affinity.serif.com/en-us/publisher/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Affinity%20Publisher-A6192E?style=for-the-badge&logo=affinitypublisher&logoColor=white" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
   <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></a>
