@@ -3,8 +3,6 @@
 ## About Me
 As a passionate UI/UX Designer, I believe that a great design is one that is not only beautiful but also perfectly implemented. That's why I completed a Full Stack development course, mastering HTML, CSS, and JavaScript. This unique combination of creativity and technical skills allows me to create designs that are both user-friendly and developer-friendly.
 
----
-
 ## 🛠️ My Professional Toolkit
 
 <div>
@@ -24,8 +22,6 @@ As a passionate UI/UX Designer, I believe that a great design is one that is not
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
 </div>
-
----
 
 ## 📫 How to reach me
 
